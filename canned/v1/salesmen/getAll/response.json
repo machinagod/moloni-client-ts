@@ -1,0 +1,38 @@
+[
+  {
+    "email": "",
+    "website": "",
+    "fax": "",
+    "salesman_id": 142703,
+    "number": "4",
+    "name": "Pessoa 1",
+    "vat": "900000151",
+    "address": "N/A",
+    "city": "Mirandela",
+    "zip_code": "0000-000",
+    "country_id": 1,
+    "phone": "",
+    "notes": "",
+    "base_commission": 0,
+    "qty_copies_document": 2,
+    "language_id": 1
+  },
+  {
+    "email": "",
+    "website": "",
+    "fax": "",
+    "salesman_id": 142711,
+    "number": "8",
+    "name": "Pessoa 2",
+    "vat": "900000151",
+    "address": "N/A",
+    "city": "Mirandela",
+    "zip_code": "0000-000",
+    "country_id": 1,
+    "phone": "",
+    "notes": "",
+    "base_commission": 0,
+    "qty_copies_document": 2,
+    "language_id": 1
+  }
+]

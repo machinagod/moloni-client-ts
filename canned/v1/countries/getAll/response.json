@@ -1,0 +1,93 @@
+[
+  {
+    "iso_3166_1": "pt",
+    "country_id": 1,
+    "order": 1,
+    "name": "Portugal",
+    "image": "",
+    "vies_vat_check_available": 1,
+    "languages": [
+      {
+        "country_id": 1,
+        "language_id": 1,
+        "name": "Portugal"
+      },
+      {
+        "country_id": 1,
+        "language_id": 2,
+        "name": "Portugal"
+      },
+      {
+        "country_id": 1,
+        "language_id": 3,
+        "name": "Portugal"
+      }
+    ],
+    "fiscal_zones": [
+      {
+        "fiscal_zone_id": 1,
+        "country_id": 1,
+        "name": "Madeira",
+        "code": "PT-MA"
+      },
+      {
+        "fiscal_zone_id": 2,
+        "country_id": 1,
+        "name": "Açores",
+        "code": "PT-AC"
+      }
+    ]
+  },
+  {
+    "iso_3166_1": "br",
+    "country_id": 33,
+    "order": 2,
+    "name": "Brasil",
+    "image": "",
+    "vies_vat_check_available": 0,
+    "languages": [
+      {
+        "country_id": 33,
+        "language_id": 1,
+        "name": "Brasil"
+      },
+      {
+        "country_id": 33,
+        "language_id": 2,
+        "name": "Brazil"
+      },
+      {
+        "country_id": 33,
+        "language_id": 3,
+        "name": "Brasil"
+      }
+    ],
+    "fiscal_zones": []
+  },
+  {
+    "iso_3166_1": "ao",
+    "country_id": 8,
+    "order": 3,
+    "name": "Angola",
+    "image": "",
+    "vies_vat_check_available": 0,
+    "languages": [
+      {
+        "country_id": 8,
+        "language_id": 1,
+        "name": "Angola"
+      },
+      {
+        "country_id": 8,
+        "language_id": 2,
+        "name": "Angola"
+      },
+      {
+        "country_id": 8,
+        "language_id": 3,
+        "name": "Angola"
+      }
+    ],
+    "fiscal_zones": []
+  }
+]

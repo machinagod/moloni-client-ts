@@ -1,0 +1,3241 @@
+[
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-09-08T12:01:45+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 876946164,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89402499,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 79,
+    "date": "2025-09-08T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04135",
+    "entity_name": "Entidade 22",
+    "entity_vat": "900000072",
+    "entity_address": "Rua de Exemplo 101",
+    "entity_city": "Porto",
+    "entity_zip_code": "4200-030",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 97.75,
+    "comercial_discount_value": 19.55,
+    "financial_discount_value": 0,
+    "taxes_value": 17.99,
+    "deduction_value": 0,
+    "net_value": 96.19,
+    "reconciled_value": 96.19,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 875874654
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 876946164,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-09-04T17:16:59+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 875384879,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89399788,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 78,
+    "date": "2025-09-04T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "02617",
+    "entity_name": "Entidade 125",
+    "entity_vat": "900000099",
+    "entity_address": "Rua de Exemplo 115",
+    "entity_city": "Vinhais",
+    "entity_zip_code": "5320-334",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 36.4,
+    "comercial_discount_value": 5.46,
+    "financial_discount_value": 0,
+    "taxes_value": 7.12,
+    "deduction_value": 0,
+    "net_value": 38.06,
+    "reconciled_value": 38.06,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 849729350
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 875384879,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-09-01T15:37:35+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 873295399,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89397934,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 77,
+    "date": "2025-09-01T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00775",
+    "entity_name": "Entidade 42",
+    "entity_vat": "900000027",
+    "entity_address": "Rua de Exemplo 124",
+    "entity_city": "Vilarandelo",
+    "entity_zip_code": "5430-658",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 6,
+    "comercial_discount_value": 0.9,
+    "financial_discount_value": 0,
+    "taxes_value": 1.17,
+    "deduction_value": 0,
+    "net_value": 6.27,
+    "reconciled_value": 6.27,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 869408466
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 873295399,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-08-18T14:40:54+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 866848910,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89397788,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 76,
+    "date": "2025-08-18T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00427",
+    "entity_name": "Entidade 153",
+    "entity_vat": "900000031",
+    "entity_address": "Rua de Exemplo 58",
+    "entity_city": "Mêda",
+    "entity_zip_code": "6430-183",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 128.85,
+    "comercial_discount_value": 32.21,
+    "financial_discount_value": 0,
+    "taxes_value": 22.22,
+    "deduction_value": 0,
+    "net_value": 118.86,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 852424610
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 877791665
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 866848910,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-08-14T16:58:40+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 865913792,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89407333,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 75,
+    "date": "2025-08-14T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05918",
+    "entity_name": "Entidade 136",
+    "entity_vat": "900000134",
+    "entity_address": "Rua de Exemplo 6",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-204",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 54.88,
+    "comercial_discount_value": 8.23,
+    "financial_discount_value": 0,
+    "taxes_value": 10.73,
+    "deduction_value": 0,
+    "net_value": 57.38,
+    "reconciled_value": 57.38,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 854016477
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 865913792,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-08-13T16:52:15+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 865520942,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89398915,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 74,
+    "date": "2025-08-13T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "01829",
+    "entity_name": "Entidade 170",
+    "entity_vat": "900000058",
+    "entity_address": "Rua de Exemplo 9",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-530",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 303.56,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 0,
+    "deduction_value": 0,
+    "net_value": 303.56,
+    "reconciled_value": 303.56,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [],
+    "reverse_associated_documents": [],
+    "rappel": {
+      "date_start": "2025-01-01T00:00:00+0000",
+      "date_end": "2025-06-30T00:00:00+0100",
+      "notes": ""
+    },
+    "document_calc_method": {
+      "document_id": 865520942,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-08-11T17:07:33+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 864716392,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89398996,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 73,
+    "date": "2025-08-11T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "01887",
+    "entity_name": "Entidade 46",
+    "entity_vat": "900000037",
+    "entity_address": "Lapa",
+    "entity_city": "Chaves",
+    "entity_zip_code": "5400-346",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 4.41,
+    "comercial_discount_value": 0.44,
+    "financial_discount_value": 0,
+    "taxes_value": 0.91,
+    "deduction_value": 0,
+    "net_value": 4.88,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 863833178
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 878614629
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 864716392,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-30T14:14:40+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 859886960,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89404295,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 72,
+    "date": "2025-07-30T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04909",
+    "entity_name": "Entidade 81",
+    "entity_vat": "900000113",
+    "entity_address": "Rua de Exemplo 132",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-369",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 35.37,
+    "comercial_discount_value": 3.06,
+    "financial_discount_value": 0,
+    "taxes_value": 7.44,
+    "deduction_value": 0,
+    "net_value": 39.75,
+    "reconciled_value": 39.75,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 854324648
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 859886960,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-29T15:08:02+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 859465232,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89398200,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 71,
+    "date": "2025-07-29T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "01425",
+    "entity_name": "Entidade 3",
+    "entity_vat": "900000084",
+    "entity_address": "Rua de Exemplo 3",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-202",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 3.9,
+    "comercial_discount_value": 0.58,
+    "financial_discount_value": 0,
+    "taxes_value": 0.76,
+    "deduction_value": 0,
+    "net_value": 4.08,
+    "reconciled_value": 4.08,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 856358585
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 859465232,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-28T17:32:32+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 859114479,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89407094,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 70,
+    "date": "2025-07-28T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05861",
+    "entity_name": "Entidade 121",
+    "entity_vat": "900000138",
+    "entity_address": "Rua de Exemplo 145",
+    "entity_city": "Chaves",
+    "entity_zip_code": "5400-414",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 87.61,
+    "comercial_discount_value": 13.14,
+    "financial_discount_value": 0,
+    "taxes_value": 17.13,
+    "deduction_value": 0,
+    "net_value": 91.6,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 846721913
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 862285199
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 859114479,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-24T11:10:53+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 857630779,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89405966,
+    "supplier_id": 0,
+    "salesman_id": 142698,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 69,
+    "date": "2025-07-24T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05506",
+    "entity_name": "Entidade 61",
+    "entity_vat": "900000129",
+    "entity_address": "Rua de Exemplo 117",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-434",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 5.2,
+    "comercial_discount_value": 0.78,
+    "financial_discount_value": 0,
+    "taxes_value": 1.02,
+    "deduction_value": 0,
+    "net_value": 5.44,
+    "reconciled_value": 5.44,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 857374238
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 857630779,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-22T10:22:12+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 856749312,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89402408,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 68,
+    "date": "2025-07-22T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04086",
+    "entity_name": "Entidade 56",
+    "entity_vat": "900000052",
+    "entity_address": "Rua de Exemplo 123",
+    "entity_city": "Santa Cruz do Bispo",
+    "entity_zip_code": "4455-794",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 21,
+    "comercial_discount_value": 5.25,
+    "financial_discount_value": 0,
+    "taxes_value": 3.62,
+    "deduction_value": 0,
+    "net_value": 19.37,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 856441338
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 869152150
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 856749312,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-15T11:38:45+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 854236062,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89404295,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 67,
+    "date": "2025-07-15T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04909",
+    "entity_name": "Entidade 81",
+    "entity_vat": "900000113",
+    "entity_address": "Rua de Exemplo 132",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-369",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 21,
+    "comercial_discount_value": 5.25,
+    "financial_discount_value": 0,
+    "taxes_value": 3.62,
+    "deduction_value": 0,
+    "net_value": 19.37,
+    "reconciled_value": 19.37,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 848648097
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 854236062,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-15T09:12:24+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 854156179,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89398915,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 66,
+    "date": "2025-07-15T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "01829",
+    "entity_name": "Entidade 170",
+    "entity_vat": "900000058",
+    "entity_address": "Rua de Exemplo 9",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-530",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 89.95,
+    "comercial_discount_value": 13.49,
+    "financial_discount_value": 0,
+    "taxes_value": 17.58,
+    "deduction_value": 0,
+    "net_value": 94.04,
+    "reconciled_value": 94.04,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 852468647
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 854156179,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-10T14:51:49+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 852592050,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89405270,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 65,
+    "date": "2025-07-10T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "Enc. nº 4400130571",
+    "entity_number": "05290",
+    "entity_name": "Entidade 19",
+    "entity_vat": "900000020",
+    "entity_address": "Rua de Exemplo 128",
+    "entity_city": "S.Paio Oleiros",
+    "entity_zip_code": "4535-907",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 220.22,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 50.65,
+    "deduction_value": 0,
+    "net_value": 270.87,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 811095802
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 852592779
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 852592050,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-07-01T11:48:36+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 848765157,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89400420,
+    "supplier_id": 0,
+    "salesman_id": 142705,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 64,
+    "date": "2025-07-01T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "ENC. Nº: PV 7553",
+    "entity_number": "03314",
+    "entity_name": "Entidade 89",
+    "entity_vat": "900000032",
+    "entity_address": "Rua de Exemplo 112",
+    "entity_city": "Amarante",
+    "entity_zip_code": "4600-018",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 127.32,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 29.28,
+    "deduction_value": 0,
+    "net_value": 156.6,
+    "reconciled_value": 156.6,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 809744903
+      },
+      {
+        "associated_id": 783682798
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 848765157,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-26T14:14:15+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 846861375,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89406746,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 63,
+    "date": "2025-06-26T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05761",
+    "entity_name": "Entidade 111",
+    "entity_vat": "900000149",
+    "entity_address": "Rua de Exemplo 89",
+    "entity_city": "Mondim de Basto",
+    "entity_zip_code": "4880-231",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 70,
+    "comercial_discount_value": 17.5,
+    "financial_discount_value": 0,
+    "taxes_value": 12.08,
+    "deduction_value": 0,
+    "net_value": 64.58,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 846463499
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 854575572
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 846861375,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-18T10:37:39+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 844076704,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89403913,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 62,
+    "date": "2025-06-18T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04778",
+    "entity_name": "Entidade 7",
+    "entity_vat": "900000146",
+    "entity_address": "Rua de Exemplo 159",
+    "entity_city": "Aguas Santas",
+    "entity_zip_code": "4425-151",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 495.98,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 114.08,
+    "deduction_value": 0,
+    "net_value": 610.06,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 812077370
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 852442998
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 844076704,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-16T14:31:28+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 843344187,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89407595,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 61,
+    "date": "2025-06-16T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05998",
+    "entity_name": "Entidade 145",
+    "entity_vat": "900000135",
+    "entity_address": "Rua de Exemplo 79",
+    "entity_city": "Macedo de Cavaleiros",
+    "entity_zip_code": "5340-031",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 34.1,
+    "comercial_discount_value": 5.11,
+    "financial_discount_value": 0,
+    "taxes_value": 6.66,
+    "deduction_value": 0,
+    "net_value": 35.65,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 839990179
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 855437688
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 843344187,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-13T14:20:56+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 842548589,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89407785,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 60,
+    "date": "2025-06-13T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "06055",
+    "entity_name": "Entidade 95",
+    "entity_vat": "900000012",
+    "entity_address": "Rua de Exemplo 18",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-204",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 45.78,
+    "comercial_discount_value": 4.58,
+    "financial_discount_value": 0,
+    "taxes_value": 9.48,
+    "deduction_value": 0,
+    "net_value": 50.68,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 842454027
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 849706392
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 842548589,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-12T16:59:49+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 842231142,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89402670,
+    "supplier_id": 0,
+    "salesman_id": 142705,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 59,
+    "date": "2025-06-12T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04241",
+    "entity_name": "Entidade 71",
+    "entity_vat": "900000048",
+    "entity_address": "Rua de Exemplo 176",
+    "entity_city": "Murtosa",
+    "entity_zip_code": "3870-021",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 33.7,
+    "comercial_discount_value": 16.18,
+    "financial_discount_value": 0,
+    "taxes_value": 4.03,
+    "deduction_value": 0,
+    "net_value": 21.55,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 835556818
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 842233219
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 842231142,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-12T16:21:52+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 842205883,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89398996,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 58,
+    "date": "2025-06-12T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "01887",
+    "entity_name": "Entidade 47",
+    "entity_vat": "900000037",
+    "entity_address": "Rua de Exemplo 85",
+    "entity_city": "Chaves",
+    "entity_zip_code": "5400-317",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 37,
+    "comercial_discount_value": 7.24,
+    "financial_discount_value": 0,
+    "taxes_value": 6.84,
+    "deduction_value": 0,
+    "net_value": 36.6,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 841674509
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 851075793
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 842205883,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-09T18:10:16+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 841155112,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 88155689,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 57,
+    "date": "2025-06-09T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00083",
+    "entity_name": "Entidade 17",
+    "entity_vat": "900000066",
+    "entity_address": "Rua de Exemplo 65",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-265",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 39.61,
+    "comercial_discount_value": 5.55,
+    "financial_discount_value": 0,
+    "taxes_value": 7.84,
+    "deduction_value": 0,
+    "net_value": 41.9,
+    "reconciled_value": 41.9,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 804689957
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 841155112,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-06T16:12:06+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 840228832,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89406280,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 56,
+    "date": "2025-06-06T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05613",
+    "entity_name": "Entidade 35",
+    "entity_vat": "900000011",
+    "entity_address": "Rua de Exemplo 96",
+    "entity_city": "Carrazeda de Ansiães",
+    "entity_zip_code": "5140-060",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 38,
+    "comercial_discount_value": 7.6,
+    "financial_discount_value": 0,
+    "taxes_value": 6.99,
+    "deduction_value": 0,
+    "net_value": 37.39,
+    "reconciled_value": 37.39,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 839988784
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 840228832,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-06T16:09:14+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 840226955,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89407790,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 55,
+    "date": "2025-06-06T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "06057",
+    "entity_name": "Entidade 144",
+    "entity_vat": "900000140",
+    "entity_address": "Rua de Exemplo 184",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-212",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 50.2,
+    "comercial_discount_value": 5.02,
+    "financial_discount_value": 0,
+    "taxes_value": 10.39,
+    "deduction_value": 0,
+    "net_value": 55.57,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 840075843
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 854172729
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 840226955,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-06-04T09:08:02+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 839027739,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 88155705,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 54,
+    "date": "2025-06-04T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00106",
+    "entity_name": "Entidade 44",
+    "entity_vat": "900000054",
+    "entity_address": "Rua de Exemplo 21",
+    "entity_city": "Macedo de Cavaleiros",
+    "entity_zip_code": "5340-202",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 20.2,
+    "comercial_discount_value": 3.03,
+    "financial_discount_value": 0,
+    "taxes_value": 3.95,
+    "deduction_value": 0,
+    "net_value": 21.12,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 836019690
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 841583598
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 839027739,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-05-29T18:10:47+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 836732510,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89404463,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 53,
+    "date": "2025-05-29T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04960",
+    "entity_name": "Entidade 20",
+    "entity_vat": "900000050",
+    "entity_address": "Rua de Exemplo 63",
+    "entity_city": "Sanfins do Douro",
+    "entity_zip_code": "5070-358",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 136.86,
+    "comercial_discount_value": 20.53,
+    "financial_discount_value": 0,
+    "taxes_value": 26.76,
+    "deduction_value": 0,
+    "net_value": 143.09,
+    "reconciled_value": 143.09,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 835823808
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 836732510,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-05-20T16:05:27+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 833253518,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89405218,
+    "supplier_id": 0,
+    "salesman_id": 142705,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 52,
+    "date": "2025-05-20T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05277",
+    "entity_name": "Entidade 115",
+    "entity_vat": "900000123",
+    "entity_address": "Rua de Exemplo 146",
+    "entity_city": "Boticas",
+    "entity_zip_code": "5460-333",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 109.06,
+    "comercial_discount_value": 27.26,
+    "financial_discount_value": 0,
+    "taxes_value": 18.81,
+    "deduction_value": 0,
+    "net_value": 100.61,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 828357620
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 845521613
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 833253518,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-05-16T16:13:19+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 832072962,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89398996,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 51,
+    "date": "2025-05-16T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "01887",
+    "entity_name": "Entidade 46",
+    "entity_vat": "900000037",
+    "entity_address": "Lapa",
+    "entity_city": "Chaves",
+    "entity_zip_code": "5400-346",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 8.82,
+    "comercial_discount_value": 1.32,
+    "financial_discount_value": 0,
+    "taxes_value": 1.72,
+    "deduction_value": 0,
+    "net_value": 9.22,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 831493994
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 839991972
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 832072962,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-05-16T14:11:35+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 832008084,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89407775,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 50,
+    "date": "2025-05-16T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "06052",
+    "entity_name": "Entidade 127",
+    "entity_vat": "900000109",
+    "entity_address": "Rua de Exemplo 160",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-395",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 58.92,
+    "comercial_discount_value": 14.73,
+    "financial_discount_value": 0,
+    "taxes_value": 10.16,
+    "deduction_value": 0,
+    "net_value": 54.35,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 831008690
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 855037082
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 832008084,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-05-15T10:01:49+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 831473185,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89406271,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 49,
+    "date": "2025-05-15T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05610",
+    "entity_name": "Entidade 135",
+    "entity_vat": "900000119",
+    "entity_address": "Rua de Exemplo 50",
+    "entity_city": "Arez",
+    "entity_zip_code": "6050-201",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 37.98,
+    "comercial_discount_value": 3.8,
+    "financial_discount_value": 0,
+    "taxes_value": 7.86,
+    "deduction_value": 0,
+    "net_value": 42.04,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 827998134
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 851975724
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 831473185,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-05-14T14:38:37+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 831181697,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89403913,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 48,
+    "date": "2025-05-14T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "Compromisso Nº 135",
+    "entity_number": "04778",
+    "entity_name": "Entidade 6",
+    "entity_vat": "900000146",
+    "entity_address": "Rua de Exemplo 120",
+    "entity_city": "Maia",
+    "entity_zip_code": "4425-151",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 81.79,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 18.81,
+    "deduction_value": 0,
+    "net_value": 100.6,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 829999632
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 852442998
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 831181697,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-05-09T17:13:12+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 829139333,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89406545,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 47,
+    "date": "2025-05-09T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05691",
+    "entity_name": "Entidade 128",
+    "entity_vat": "900000089",
+    "entity_address": "Rua de Exemplo 167",
+    "entity_city": "Chaves",
+    "entity_zip_code": "5400-590",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 147.6,
+    "comercial_discount_value": 36.9,
+    "financial_discount_value": 0,
+    "taxes_value": 25.46,
+    "deduction_value": 0,
+    "net_value": 136.16,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 828368208
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 850174127
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 829139333,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-05-08T11:32:13+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 828388727,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89402741,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 46,
+    "date": "2025-05-08T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04308",
+    "entity_name": "Entidade 49",
+    "entity_vat": "900000094",
+    "entity_address": "Rua de Exemplo 11",
+    "entity_city": "Labruge",
+    "entity_zip_code": "4485-302",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 4.88,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 1.12,
+    "deduction_value": 0,
+    "net_value": 6,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 827299695
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 845517519
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 828388727,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-29T17:20:43+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 824240585,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89397901,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 45,
+    "date": "2025-04-29T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00669",
+    "entity_name": "Entidade 113",
+    "entity_vat": "900000007",
+    "entity_address": "Rua de Exemplo 34",
+    "entity_city": "Vinhais",
+    "entity_zip_code": "5320-326",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 43.1,
+    "comercial_discount_value": 8.62,
+    "financial_discount_value": 0,
+    "taxes_value": 7.93,
+    "deduction_value": 0,
+    "net_value": 42.41,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 807905862
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 828297640
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 824240585,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-24T11:34:17+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 822459808,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89397839,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 44,
+    "date": "2025-04-24T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00548",
+    "entity_name": "Entidade 175",
+    "entity_vat": "900000076",
+    "entity_address": "Rua de Exemplo 181",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-327",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 38,
+    "comercial_discount_value": 5.7,
+    "financial_discount_value": 0,
+    "taxes_value": 7.43,
+    "deduction_value": 0,
+    "net_value": 39.73,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 817459579
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 834273220
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 822459808,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-23T10:06:37+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 821928303,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89404864,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 43,
+    "date": "2025-04-23T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "Enc. 2025/393",
+    "entity_number": "05183",
+    "entity_name": "Entidade 119",
+    "entity_vat": "900000096",
+    "entity_address": "Rua de Exemplo 114",
+    "entity_city": "Carrazeda de Ansiães",
+    "entity_zip_code": "5140-077",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 16082.19,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 3698.9,
+    "deduction_value": 0,
+    "net_value": 19781.09,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 814391820
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 867095038
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 821928303,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-21T11:30:14+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 820974875,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 91629176,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 42,
+    "date": "2025-04-21T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "06106",
+    "entity_name": "Entidade 183",
+    "entity_vat": "900000142",
+    "entity_address": "Rua de Exemplo 131",
+    "entity_city": "Porto",
+    "entity_zip_code": "4250-481",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 90.48,
+    "comercial_discount_value": 18.1,
+    "financial_discount_value": 0,
+    "taxes_value": 16.65,
+    "deduction_value": 0,
+    "net_value": 89.03,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 819977963
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 826721480
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 820974875,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-10T16:47:20+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 817228312,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89406346,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 41,
+    "date": "2025-04-10T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05631",
+    "entity_name": "Entidade 62",
+    "entity_vat": "900000150",
+    "entity_address": "Rua de Exemplo 113",
+    "entity_city": "Boticas",
+    "entity_zip_code": "5460-010",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 327.4,
+    "comercial_discount_value": 57.65,
+    "financial_discount_value": 0,
+    "taxes_value": 62.03,
+    "deduction_value": 0,
+    "net_value": 331.78,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 801803240
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 817229423
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 817228312,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-09T14:41:49+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 816659925,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89397683,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 40,
+    "date": "2025-04-09T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00235",
+    "entity_name": "Entidade 74",
+    "entity_vat": "900000064",
+    "entity_address": "Rua de Exemplo 174",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-565",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 18.74,
+    "comercial_discount_value": 2.81,
+    "financial_discount_value": 0,
+    "taxes_value": 3.66,
+    "deduction_value": 0,
+    "net_value": 19.59,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 814059029
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 844049632
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 816659925,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-07T17:00:50+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 815784668,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89397889,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 39,
+    "date": "2025-04-07T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00654",
+    "entity_name": "Entidade 157",
+    "entity_vat": "900000041",
+    "entity_address": "Rua de Exemplo 104",
+    "entity_city": "Montalegre",
+    "entity_zip_code": "5470-285",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 219.52,
+    "comercial_discount_value": 54.88,
+    "financial_discount_value": 0,
+    "taxes_value": 37.87,
+    "deduction_value": 0,
+    "net_value": 202.51,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 814427857
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 844286260
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 815784668,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-04T09:23:52+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 814366724,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 96384763,
+    "supplier_id": 0,
+    "salesman_id": 142703,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 38,
+    "date": "2025-04-04T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "06132",
+    "entity_name": "Entidade 40",
+    "entity_vat": "900000003",
+    "entity_address": "Rua de Exemplo 48",
+    "entity_city": "Vidago",
+    "entity_zip_code": "5425-013",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 69.81,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 16.06,
+    "deduction_value": 0,
+    "net_value": 85.87,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 804674949
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 816541068
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 814366724,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-03T16:12:31+0100",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 814112405,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89400420,
+    "supplier_id": 0,
+    "salesman_id": 142705,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 37,
+    "date": "2025-04-03T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "ENC. Nº: PV 8225",
+    "entity_number": "03314",
+    "entity_name": "Entidade 94",
+    "entity_vat": "900000032",
+    "entity_address": "Rua de Exemplo 53",
+    "entity_city": "Póvoa de Varzim",
+    "entity_zip_code": "4409-592",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 5.38,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 1.24,
+    "deduction_value": 0,
+    "net_value": 6.62,
+    "reconciled_value": 6.62,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 812768935
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 814112405,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-01T16:41:38+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 813066593,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89399530,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 36,
+    "date": "2025-04-01T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "02132",
+    "entity_name": "Entidade 57",
+    "entity_vat": "900000074",
+    "entity_address": "Rua de Exemplo 62",
+    "entity_city": "Vilar de Maçada",
+    "entity_zip_code": "5070-576",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 1548.88,
+    "comercial_discount_value": 232.33,
+    "financial_discount_value": 0,
+    "taxes_value": 302.8,
+    "deduction_value": 0,
+    "net_value": 1619.35,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 795752453
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 819131490
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 813066593,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-04-01T10:47:22+0100",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 812801278,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89402851,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 35,
+    "date": "2025-04-01T00:00:00+0100",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04411",
+    "entity_name": "Entidade 5",
+    "entity_vat": "900000108",
+    "entity_address": "Rua de Exemplo 74",
+    "entity_city": "Penafiel",
+    "entity_zip_code": "4456-532",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 21,
+    "comercial_discount_value": 5.25,
+    "financial_discount_value": 0,
+    "taxes_value": 3.62,
+    "deduction_value": 0,
+    "net_value": 19.37,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 745337005
+      }
+    ],
+    "reverse_associated_documents": [
+      {
+        "document_id": 841550133
+      }
+    ],
+    "document_calc_method": {
+      "document_id": 812801278,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-03-26T11:09:36+0000",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 810210910,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89402408,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 34,
+    "date": "2025-03-26T00:00:00+0000",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04086",
+    "entity_name": "Entidade 56",
+    "entity_vat": "900000052",
+    "entity_address": "Rua de Exemplo 123",
+    "entity_city": "Santa Cruz do Bispo",
+    "entity_zip_code": "4455-794",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 329.14,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 0,
+    "deduction_value": 0,
+    "net_value": 329.14,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [],
+    "reverse_associated_documents": [
+      {
+        "document_id": 824482379
+      }
+    ],
+    "rappel": {
+      "date_start": "2024-01-01T00:00:00+0000",
+      "date_end": "2024-12-31T00:00:00+0000",
+      "notes": ""
+    },
+    "document_calc_method": {
+      "document_id": 810210910,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-03-26T11:06:39+0000",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 810209143,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89402438,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 33,
+    "date": "2025-03-26T00:00:00+0000",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "04109",
+    "entity_name": "Entidade 4",
+    "entity_vat": "900000083",
+    "entity_address": "Rua de Exemplo 40",
+    "entity_city": "São Mamede de Infesta",
+    "entity_zip_code": "4465-189",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 312.24,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 0,
+    "deduction_value": 0,
+    "net_value": 312.24,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [],
+    "reverse_associated_documents": [
+      {
+        "document_id": 827811864
+      }
+    ],
+    "rappel": {
+      "date_start": "2024-01-01T00:00:00+0000",
+      "date_end": "2024-12-31T00:00:00+0000",
+      "notes": ""
+    },
+    "document_calc_method": {
+      "document_id": 810209143,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-03-26T10:57:41+0000",
+    "lastmodifiedby": "Pessoa 5",
+    "document_id": 810203340,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89398915,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 32,
+    "date": "2025-03-26T00:00:00+0000",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "01829",
+    "entity_name": "Entidade 170",
+    "entity_vat": "900000058",
+    "entity_address": "Rua de Exemplo 9",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-530",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 799.54,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 0,
+    "deduction_value": 0,
+    "net_value": 799.54,
+    "reconciled_value": 0,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [],
+    "reverse_associated_documents": [
+      {
+        "document_id": 854571995
+      }
+    ],
+    "rappel": {
+      "date_start": "2024-01-01T00:00:00+0000",
+      "date_end": "2024-12-31T00:00:00+0000",
+      "notes": ""
+    },
+    "document_calc_method": {
+      "document_id": 810203340,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-03-18T11:31:12+0000",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 807090478,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 89406495,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 31,
+    "date": "2025-03-18T00:00:00+0000",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "05676",
+    "entity_name": "Entidade 60",
+    "entity_vat": "900000133",
+    "entity_address": "Rua de Exemplo 91",
+    "entity_city": "Bragança",
+    "entity_zip_code": "5300-274",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 21.4,
+    "comercial_discount_value": 4.28,
+    "financial_discount_value": 0,
+    "taxes_value": 3.94,
+    "deduction_value": 0,
+    "net_value": 21.06,
+    "reconciled_value": 21.06,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 807005465
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 807090478,
+      "calc_method_id": 2
+    }
+  },
+  {
+    "terminal_id": 0,
+    "lastmodified": "2025-03-18T11:29:53+0000",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 807089695,
+    "company_id": 240211,
+    "document_type_id": 3,
+    "customer_id": 88155705,
+    "supplier_id": 0,
+    "salesman_id": 142688,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": 30,
+    "date": "2025-03-18T00:00:00+0000",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "00106",
+    "entity_name": "Entidade 58",
+    "entity_vat": "900000054",
+    "entity_address": "Rua de Exemplo 17",
+    "entity_city": "Macedo de Cavaleiros",
+    "entity_zip_code": "5340-202",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 63.3,
+    "comercial_discount_value": 9.49,
+    "financial_discount_value": 0,
+    "taxes_value": 12.37,
+    "deduction_value": 0,
+    "net_value": 66.18,
+    "reconciled_value": 66.18,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 3,
+      "saft_code": "NC"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [
+      {
+        "associated_id": 807012040
+      }
+    ],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 807089695,
+      "calc_method_id": 2
+    }
+  }
+]

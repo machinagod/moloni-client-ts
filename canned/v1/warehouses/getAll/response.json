@@ -1,0 +1,23 @@
+[
+  {
+    "is_default": 1,
+    "fax": "",
+    "warehouse_id": 334988,
+    "company_id": 240211,
+    "title": "Global",
+    "code": "G",
+    "address": "Rua de Exemplo 52",
+    "city": "Mirandela",
+    "zip_code": "5370-565",
+    "country_id": 1,
+    "phone": "",
+    "contact_name": "",
+    "contact_email": "",
+    "visibility_id": 1,
+    "country": {
+      "iso_3166_1": "pt",
+      "country_id": 1,
+      "name": "Portugal"
+    }
+  }
+]

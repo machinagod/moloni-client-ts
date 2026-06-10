@@ -1,0 +1,125 @@
+[
+  {
+    "ean": "",
+    "stock": 0,
+    "created": "2023-11-16T06:23:52+0000",
+    "product_id": 159975925,
+    "visibility_id": 1,
+    "company_id": 240211,
+    "category_id": 7584835,
+    "type": 1,
+    "name": "Tigela de Policarbonato 450cc",
+    "summary": "",
+    "notes": "",
+    "reference": "00110",
+    "price": 2.58,
+    "unit_id": 2156443,
+    "has_stock": 1,
+    "minimum_stock": 0,
+    "image": "",
+    "exemption_reason": "",
+    "pos_favorite": 0,
+    "at_product_category": "M",
+    "composition_type": 0,
+    "warehouse_id": 334988,
+    "category": {
+      "category_id": 7584835,
+      "parent_id": 7584766,
+      "name": "Utensílios Hotelaria",
+      "description": "",
+      "image": ""
+    },
+    "measurement_unit": {
+      "unit_id": 2156443,
+      "name": "Unidade",
+      "short_name": "Uni."
+    },
+    "suppliers": [
+      {
+        "product_id": 159975925,
+        "supplier_id": 2188486,
+        "cost_price": 2.58,
+        "comercial_discount": 20,
+        "financial_discount": 5,
+        "cost_price_discounted": 1.9608,
+        "reference": ""
+      }
+    ],
+    "taxes": [
+      {
+        "product_tax_id": 1047183393,
+        "product_id": 159975925,
+        "tax_id": 2564343,
+        "value": 0.5934,
+        "order": 1,
+        "cumulative": 1,
+        "tax": {
+          "tax_id": 2564343,
+          "type": 1,
+          "saft_type": 1,
+          "vat_type": "NOR",
+          "stamp_tax": "",
+          "name": "IVA Normal",
+          "value": 23,
+          "fiscal_zone": "PT",
+          "active_by_default": 1,
+          "exemption_reason": ""
+        }
+      }
+    ],
+    "properties": [
+      {
+        "property_id": 34454,
+        "value": "0",
+        "property": {
+          "property_id": 34454,
+          "title": "Peso"
+        }
+      }
+    ],
+    "price_classes": [
+      {
+        "product_price_class_id": 141596523,
+        "price_class_id": 132790,
+        "value": 2.58,
+        "price_class": {
+          "lastmodifiedby": "Pessoa 8",
+          "lastmodified": "2026-01-02T09:21:06+0000",
+          "price_class_id": 132790,
+          "title": "PVP1"
+        }
+      },
+      {
+        "product_price_class_id": 141596528,
+        "price_class_id": 133221,
+        "value": 2.58,
+        "price_class": {
+          "lastmodifiedby": "Pessoa 4",
+          "lastmodified": "2024-01-03T15:11:42+0000",
+          "price_class_id": 133221,
+          "title": "PVP1 2023"
+        }
+      },
+      {
+        "product_price_class_id": 141596533,
+        "price_class_id": 133275,
+        "value": 2.58,
+        "price_class": {
+          "lastmodifiedby": "Pessoa 4",
+          "lastmodified": "2024-01-03T15:11:49+0000",
+          "price_class_id": 133275,
+          "title": "PVP1 Primavera 2023"
+        }
+      }
+    ],
+    "warehouses": [
+      {
+        "product_id": 159975925,
+        "warehouse_id": 334988,
+        "stock": 0,
+        "minimum_stock": 0
+      }
+    ],
+    "child_products": []
+  }
+]

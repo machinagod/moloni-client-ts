@@ -1,0 +1,26 @@
+[
+  {
+    "is_tpa": 0,
+    "payment_method_id": 1753483,
+    "name": "Cheque",
+    "is_numerary": 0,
+    "is_mb": 0,
+    "is_credit": 0
+  },
+  {
+    "is_tpa": 0,
+    "payment_method_id": 1753493,
+    "name": "Multibanco",
+    "is_numerary": 0,
+    "is_mb": 1,
+    "is_credit": 0
+  },
+  {
+    "is_tpa": 0,
+    "payment_method_id": 1753478,
+    "name": "Numerário",
+    "is_numerary": 1,
+    "is_mb": 0,
+    "is_credit": 0
+  }
+]

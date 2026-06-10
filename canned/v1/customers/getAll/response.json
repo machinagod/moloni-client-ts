@@ -1,0 +1,57 @@
+[
+  {
+    "email": "contacto2@example.com",
+    "website": "",
+    "fax": "",
+    "customer_id": 89407140,
+    "visibility_id": 1,
+    "salesman_id": 142688,
+    "number": "05875",
+    "name": "Empresa 4",
+    "vat": "900000139",
+    "address": "Rua de Exemplo 90",
+    "city": "Sabrosa",
+    "zip_code": "5060-309",
+    "country_id": 1,
+    "phone": "910000001",
+    "contact_name": "",
+    "contact_email": "",
+    "contact_phone": "",
+    "notes": "",
+    "discount": 0,
+    "credit_limit": 0,
+    "qty_copies_document": null,
+    "maturity_date_id": 0,
+    "payment_day": 0,
+    "field_notes": "",
+    "language_id": 1,
+    "payment_method_id": 1753488,
+    "delivery_method_id": 1777458,
+    "price_class_id": 0,
+    "document_set_id": 0,
+    "geographic_zone_id": 18238,
+    "exemption_reason": "",
+    "print_document_notes": 0,
+    "country": {
+      "iso_3166_1": "pt",
+      "country_id": 1,
+      "name": "Portugal"
+    },
+    "payment_method": {
+      "payment_method_id": 1753488,
+      "name": "Empresa 3"
+    },
+    "delivery_method": {
+      "delivery_method_id": 1777458,
+      "name": "Empresa 2"
+    },
+    "salesman": {
+      "salesman_id": 142688,
+      "number": "3",
+      "name": "Empresa 1",
+      "base_commission": 0
+    },
+    "alternate_addresses": [],
+    "associated_taxes": []
+  }
+]

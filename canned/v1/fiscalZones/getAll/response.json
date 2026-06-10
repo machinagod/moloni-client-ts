@@ -1,0 +1,14 @@
+[
+  {
+    "fiscal_zone_id": 2,
+    "country_id": 1,
+    "name": "Açores",
+    "code": "PT-AC"
+  },
+  {
+    "fiscal_zone_id": 1,
+    "country_id": 1,
+    "name": "Madeira",
+    "code": "PT-MA"
+  }
+]

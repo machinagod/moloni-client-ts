@@ -1,0 +1,26 @@
+[
+  {
+    "email": "contacto1@example.com",
+    "company_id": 240211,
+    "name": "Pessoa 3",
+    "vat": "900000079",
+    "address": "Rua de Exemplo 182",
+    "city": "Mirandela",
+    "zip_code": "5370-565",
+    "country_id": 1,
+    "image": "2023/Apr/logo_w2af.png",
+    "confirmed": 1,
+    "currency_id": 1,
+    "gdpr_acceptance": 1,
+    "country": {
+      "iso_3166_1": "pt",
+      "country_id": 1,
+      "name": "Portugal"
+    },
+    "currency": {
+      "currency_id": 1,
+      "symbol": "€",
+      "symbol_right": 1
+    }
+  }
+]

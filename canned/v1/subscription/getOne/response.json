@@ -1,0 +1,11 @@
+{
+  "subscription_id": 219638,
+  "company_id": 240211,
+  "plan_id": 4,
+  "payment_mode": "preco_anual",
+  "last_price": 190.8,
+  "subscription_date": "2023-06-17T09:35:00+0100",
+  "expire_date": "2026-06-17T09:06:00+0100",
+  "paid": 1,
+  "last_payment_date": "2025-06-15T17:49:07+0100"
+}

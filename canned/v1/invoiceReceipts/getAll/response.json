@@ -1,0 +1,60 @@
+[
+  {
+    "terminal_id": 0,
+    "lastmodified": "2026-01-29T17:48:31+0000",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 933574298,
+    "company_id": 240211,
+    "document_type_id": 27,
+    "customer_id": 120003193,
+    "supplier_id": 0,
+    "salesman_id": 142711,
+    "document_set_id": 884384,
+    "document_set_name": "2026",
+    "number": 35,
+    "date": "2026-01-29T00:00:00+0000",
+    "expiration_date": null,
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "06209",
+    "entity_name": "Entidade 108",
+    "entity_vat": "900000014",
+    "entity_address": "Rua de Exemplo 163",
+    "entity_city": "Mirandela",
+    "entity_zip_code": "5370-206",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 25.2,
+    "comercial_discount_value": 3.78,
+    "financial_discount_value": 0,
+    "taxes_value": 4.93,
+    "deduction_value": 0,
+    "net_value": 26.35,
+    "reconciled_value": 26.35,
+    "status": 1,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 27,
+      "saft_code": "FR"
+    },
+    "document_set": {
+      "document_set_id": 884384,
+      "name": "2026"
+    },
+    "associated_documents": [],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 933574298,
+      "calc_method_id": 2
+    }
+  }
+]

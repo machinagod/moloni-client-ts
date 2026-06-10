@@ -1,0 +1,60 @@
+[
+  {
+    "terminal_id": 0,
+    "lastmodified": "2026-01-26T15:42:01+0000",
+    "lastmodifiedby": "Pessoa 9",
+    "document_id": 904208253,
+    "company_id": 240211,
+    "document_type_id": 14,
+    "customer_id": 89400286,
+    "supplier_id": 0,
+    "salesman_id": 142686,
+    "document_set_id": 774364,
+    "document_set_name": "2025",
+    "number": -1,
+    "date": "2026-01-26T00:00:00+0000",
+    "expiration_date": "2026-01-31T00:00:00+0000",
+    "maturity_date_days": null,
+    "maturity_date_id": 0,
+    "maturity_date_name": "",
+    "your_reference": "",
+    "our_reference": "",
+    "entity_number": "03104",
+    "entity_name": "Entidade 11",
+    "entity_vat": "900000148",
+    "entity_address": "Rua de Exemplo 165",
+    "entity_city": "Senhora da Hora",
+    "entity_zip_code": "4460-343",
+    "entity_country": "Portugal",
+    "entity_country_id": 1,
+    "financial_discount": 0,
+    "gross_value": 756.19,
+    "comercial_discount_value": 0,
+    "financial_discount_value": 0,
+    "taxes_value": 173.91,
+    "deduction_value": 0,
+    "net_value": 930.1,
+    "reconciled_value": 0,
+    "status": 0,
+    "transport_code": "",
+    "transport_code_set_by": 0,
+    "global_guide": 0,
+    "exchange_currency_id": 0,
+    "exchange_total_value": 0,
+    "exchange_rate": 0,
+    "document_type": {
+      "document_type_id": 14,
+      "saft_code": "OR"
+    },
+    "document_set": {
+      "document_set_id": 774364,
+      "name": "2025"
+    },
+    "associated_documents": [],
+    "reverse_associated_documents": [],
+    "document_calc_method": {
+      "document_id": 904208253,
+      "calc_method_id": 2
+    }
+  }
+]

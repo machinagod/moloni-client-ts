@@ -1,0 +1,68 @@
+[
+  {
+    "iso4217": "EUR",
+    "currency_id": 1,
+    "symbol": "€",
+    "languages": [
+      {
+        "currency_id": 1,
+        "language_id": 1,
+        "name": "Euro"
+      },
+      {
+        "currency_id": 1,
+        "language_id": 2,
+        "name": "Euro"
+      },
+      {
+        "currency_id": 1,
+        "language_id": 3,
+        "name": "Euro"
+      }
+    ]
+  },
+  {
+    "iso4217": "USD",
+    "currency_id": 2,
+    "symbol": "$",
+    "languages": [
+      {
+        "currency_id": 2,
+        "language_id": 1,
+        "name": "Dólar americano"
+      },
+      {
+        "currency_id": 2,
+        "language_id": 2,
+        "name": "US dollar"
+      },
+      {
+        "currency_id": 2,
+        "language_id": 3,
+        "name": "Dólar estadounidense"
+      }
+    ]
+  },
+  {
+    "iso4217": "GBP",
+    "currency_id": 3,
+    "symbol": "£",
+    "languages": [
+      {
+        "currency_id": 3,
+        "language_id": 1,
+        "name": "Libra britânica"
+      },
+      {
+        "currency_id": 3,
+        "language_id": 2,
+        "name": "British pound"
+      },
+      {
+        "currency_id": 3,
+        "language_id": 3,
+        "name": "Libra esterlina"
+      }
+    ]
+  }
+]

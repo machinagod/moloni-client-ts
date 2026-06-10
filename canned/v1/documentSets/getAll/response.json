@@ -1,0 +1,1266 @@
+[
+  {
+    "template_id": 0,
+    "cash_vat_scheme_indicator": 0,
+    "document_set_id": 884384,
+    "name": "2026",
+    "active_by_default": 1,
+    "image": "",
+    "for_invoice_receipt": 0,
+    "is_invisible": 0,
+    "eac_id": 701219,
+    "eac": {
+      "eac_id": 701219,
+      "description": "Outro comércio por grosso de bens de consumo, n.e."
+    },
+    "document_types_numbers": [
+      {
+        "document_set_id": 884384,
+        "document_type_id": 1,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 2,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 3,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 4,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 6,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 7,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 8,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 9,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 10,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 11,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 12,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 13,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 14,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 15,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 16,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 17,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 18,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 19,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 20,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 21,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 22,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 23,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 24,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 25,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 26,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 27,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 28,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 29,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 30,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 31,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 32,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 33,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 34,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 35,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 36,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 37,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 47,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 74,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 75,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 76,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 884384,
+        "document_type_id": 77,
+        "initial_number": 1
+      }
+    ],
+    "document_set_at_codes": [
+      {
+        "document_set_wsat_id": 8978505,
+        "document_set_id": 884384,
+        "document_type_id": 1,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6T5ZMXX",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069315,
+          "document_set_wsat_id": 8978505,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6T5ZMXX",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:01+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978510,
+        "document_set_id": 884384,
+        "document_type_id": 2,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TJZMXM",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069320,
+          "document_set_wsat_id": 8978510,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TJZMXM",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:01+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978515,
+        "document_set_id": 884384,
+        "document_type_id": 3,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TCZMXS",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069325,
+          "document_set_wsat_id": 8978515,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TCZMXS",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:01+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978520,
+        "document_set_id": 884384,
+        "document_type_id": 4,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TYZMX9",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069330,
+          "document_set_wsat_id": 8978520,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TYZMX9",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:01+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978525,
+        "document_set_id": 884384,
+        "document_type_id": 6,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TPZMXB",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069335,
+          "document_set_wsat_id": 8978525,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TPZMXB",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978530,
+        "document_set_id": 884384,
+        "document_type_id": 13,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6T7ZMX3",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069340,
+          "document_set_wsat_id": 8978530,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6T7ZMX3",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978535,
+        "document_set_id": 884384,
+        "document_type_id": 14,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6T4ZM2T",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069345,
+          "document_set_wsat_id": 8978535,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6T4ZM2T",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978540,
+        "document_set_id": 884384,
+        "document_type_id": 15,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TWZMXW",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069350,
+          "document_set_wsat_id": 8978540,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TWZMXW",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978545,
+        "document_set_id": 884384,
+        "document_type_id": 16,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TBZMX4",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069355,
+          "document_set_wsat_id": 8978545,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TBZMX4",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978550,
+        "document_set_id": 884384,
+        "document_type_id": 20,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TSZMX7",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069360,
+          "document_set_wsat_id": 8978550,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TSZMX7",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978555,
+        "document_set_id": 884384,
+        "document_type_id": 27,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TXZMXG",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069365,
+          "document_set_wsat_id": 8978555,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TXZMXG",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978560,
+        "document_set_id": 884384,
+        "document_type_id": 28,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TVZMXP",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069370,
+          "document_set_wsat_id": 8978560,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TVZMXP",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978565,
+        "document_set_id": 884384,
+        "document_type_id": 30,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TZZMXR",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069375,
+          "document_set_wsat_id": 8978565,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TZZMXR",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978570,
+        "document_set_id": 884384,
+        "document_type_id": 31,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TTZMXY",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069380,
+          "document_set_wsat_id": 8978570,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TTZMXY",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978575,
+        "document_set_id": 884384,
+        "document_type_id": 32,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6T5ZMXD",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069385,
+          "document_set_wsat_id": 8978575,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6T5ZMXD",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978580,
+        "document_set_id": 884384,
+        "document_type_id": 47,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TJZMX8",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069390,
+          "document_set_wsat_id": 8978580,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TJZMX8",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 8978585,
+        "document_set_id": 884384,
+        "document_type_id": 74,
+        "initial_num": 1,
+        "initial_date": "2025-12-30T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "J6TCZMXC",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 9069395,
+          "document_set_wsat_id": 8978585,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : J6TCZMXC",
+          "document_set_state": 0,
+          "created_at": "2025-12-30T20:10:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      }
+    ]
+  },
+  {
+    "template_id": 0,
+    "cash_vat_scheme_indicator": 0,
+    "document_set_id": 774364,
+    "name": "2025",
+    "active_by_default": 0,
+    "image": "",
+    "for_invoice_receipt": 0,
+    "is_invisible": 0,
+    "eac_id": 701219,
+    "eac": {
+      "eac_id": 701219,
+      "description": "Outro comércio por grosso de bens de consumo, n.e."
+    },
+    "document_types_numbers": [
+      {
+        "document_set_id": 774364,
+        "document_type_id": 1,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 2,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 3,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 4,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 6,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 7,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 8,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 9,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 10,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 11,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 12,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 13,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 14,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 15,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 16,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 17,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 18,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 19,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 20,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 21,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 22,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 23,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 24,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 25,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 26,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 27,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 28,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 29,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 30,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 31,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 32,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 33,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 34,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 35,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 36,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 37,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 47,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 74,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 75,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 76,
+        "initial_number": 1
+      },
+      {
+        "document_set_id": 774364,
+        "document_type_id": 77,
+        "initial_number": 1
+      }
+    ],
+    "document_set_at_codes": [
+      {
+        "document_set_wsat_id": 7255805,
+        "document_set_id": 774364,
+        "document_type_id": 1,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBZWXD6",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318020,
+          "document_set_wsat_id": 7255805,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBZWXD6",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255810,
+        "document_set_id": 774364,
+        "document_type_id": 2,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBTWXD5",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318025,
+          "document_set_wsat_id": 7255810,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBTWXD5",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255815,
+        "document_set_id": 774364,
+        "document_type_id": 3,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJB2WXY6",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318030,
+          "document_set_wsat_id": 7255815,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJB2WXY6",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255820,
+        "document_set_id": 774364,
+        "document_type_id": 4,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJB5WXDH",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318035,
+          "document_set_wsat_id": 7255820,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJB5WXDH",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255825,
+        "document_set_id": 774364,
+        "document_type_id": 6,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBNWXY5",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318040,
+          "document_set_wsat_id": 7255825,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBNWXY5",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255830,
+        "document_set_id": 774364,
+        "document_type_id": 13,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJB8WXYG",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318045,
+          "document_set_wsat_id": 7255830,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJB8WXYG",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255835,
+        "document_set_id": 774364,
+        "document_type_id": 14,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBPWXYR",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318050,
+          "document_set_wsat_id": 7255835,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBPWXYR",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255840,
+        "document_set_id": 774364,
+        "document_type_id": 15,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJB7WXYY",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318055,
+          "document_set_wsat_id": 7255840,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJB7WXYY",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:02+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255845,
+        "document_set_id": 774364,
+        "document_type_id": 16,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJB6WXYT",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318060,
+          "document_set_wsat_id": 7255845,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJB6WXYT",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255850,
+        "document_set_id": 774364,
+        "document_type_id": 20,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBJWXDT",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318065,
+          "document_set_wsat_id": 7255850,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBJWXDT",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255855,
+        "document_set_id": 774364,
+        "document_type_id": 27,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBSWXYC",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318070,
+          "document_set_wsat_id": 7255855,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBSWXYC",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255860,
+        "document_set_id": 774364,
+        "document_type_id": 28,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBCWXDN",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318075,
+          "document_set_wsat_id": 7255860,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBCWXDN",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255865,
+        "document_set_id": 774364,
+        "document_type_id": 30,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBVWXDJ",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318080,
+          "document_set_wsat_id": 7255865,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBVWXDJ",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255870,
+        "document_set_id": 774364,
+        "document_type_id": 31,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBGWXDR",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318085,
+          "document_set_wsat_id": 7255870,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBGWXDR",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255875,
+        "document_set_id": 774364,
+        "document_type_id": 32,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBDWXDZ",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318090,
+          "document_set_wsat_id": 7255875,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBDWXDZ",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255880,
+        "document_set_id": 774364,
+        "document_type_id": 47,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJB4WXDY",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318095,
+          "document_set_wsat_id": 7255880,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJB4WXDY",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      },
+      {
+        "document_set_wsat_id": 7255885,
+        "document_set_id": 774364,
+        "document_type_id": 74,
+        "initial_num": 1,
+        "initial_date": "2024-12-17T00:00:00+0000",
+        "document_set_state": 0,
+        "end_num": null,
+        "document_set_at_code": "JJBRWXD2",
+        "new_document_set": 1,
+        "can_be_nulled": 0,
+        "last_log": {
+          "document_set_wsat_logs_id": 7318100,
+          "document_set_wsat_id": 7255885,
+          "action": 0,
+          "processing_mode": 0,
+          "valid_document_set_at_code": 1,
+          "result_code": 2001,
+          "result_msg": "Série registada com sucesso. A situação ficou ativa e foi atribuído o seguinte código de validação : JJBRWXD2",
+          "document_set_state": 0,
+          "created_at": "2024-12-17T16:30:03+0000",
+          "created_by": "Moloni | Apoio ao cliente"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "lastmodifiedby": "Empresa 5",
+    "lastmodified": "2023-12-30T15:23:17+0000",
+    "destaque_id": 1,
+    "geographic_zone_id": 18238,
+    "company_id": 240211,
+    "name": "Sem Zona",
+    "short_name": "0",
+    "notes": ""
+  },
+  {
+    "lastmodifiedby": "Empresa 5",
+    "lastmodified": "2023-12-30T15:23:17+0000",
+    "destaque_id": 1,
+    "geographic_zone_id": 18239,
+    "company_id": 240211,
+    "name": "Bragança, Vinhais, Macedo",
+    "short_name": "2",
+    "notes": ""
+  },
+  {
+    "lastmodifiedby": "Empresa 5",
+    "lastmodified": "2023-12-30T15:23:18+0000",
+    "destaque_id": 1,
+    "geographic_zone_id": 18240,
+    "company_id": 240211,
+    "name": "Porto, Douro Litoral, Minho e Beira Litoral",
+    "short_name": "3",
+    "notes": ""
+  }
+]
