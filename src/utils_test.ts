@@ -306,46 +306,28 @@ Deno.test("applyMixins - handles methods with parameters", () => {
   assertEquals(helper.multiply(4, 5), 20);
 });
 
-Deno.test("applyMixins - handles property descriptor fallback to empty object", () => {
-  // Create a class with a modified prototype where getOwnPropertyDescriptor may return undefined
-  class BaseWithManipulatedPrototype {}
-
-  // Manually add a property name that has no descriptor (edge case)
-  const proto = BaseWithManipulatedPrototype.prototype;
-  const originalGetOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
-
-  // Temporarily override getOwnPropertyDescriptor to return undefined for 'testProp'
-  let callCount = 0;
-  const mockGetOwnPropertyDescriptor = (
-    obj: object,
-    prop: PropertyKey,
-  ): PropertyDescriptor | undefined => {
-    if (prop === "testProp") {
-      callCount++;
-      return undefined; // Force the fallback to empty object
-    }
-    return originalGetOwnPropertyDescriptor(obj, prop);
-  };
-
-  // Add a property to the prototype
-  Object.defineProperty(proto, "testProp", {
-    value: "test",
-    writable: true,
-    enumerable: true,
-    configurable: true,
+Deno.test("applyMixins - falls back to {} when a name has no descriptor", () => {
+  // Drive the `... || {}` fallback hermetically — no global monkey-patching
+  // (which was non-deterministic under the parallel suite). A Proxy prototype
+  // lists "ghost" via ownKeys, so getOwnPropertyNames sees it, but returns no
+  // descriptor for it, so `getOwnPropertyDescriptor(...)` is undefined and the
+  // empty-object fallback is taken. The invariant is legal: the target is an
+  // extensible bare object with no own "ghost" property.
+  const ghostProto = new Proxy(Object.create(null), {
+    ownKeys: () => ["ghost"],
+    getOwnPropertyDescriptor: () => undefined,
   });
+  type Ctor = Parameters<typeof applyMixins>[0];
+  const Base = (function GhostBase() {}) as unknown as Ctor;
+  Base.prototype = ghostProto;
 
   class Target {}
+  applyMixins(Target as unknown as Ctor, [Base]);
 
-  // Override Object.getOwnPropertyDescriptor temporarily
-  Object.getOwnPropertyDescriptor = mockGetOwnPropertyDescriptor;
-
-  try {
-    applyMixins(Target, [BaseWithManipulatedPrototype]);
-    // Verify the fallback was triggered
-    assertEquals(callCount > 0, true);
-  } finally {
-    // Restore original function
-    Object.getOwnPropertyDescriptor = originalGetOwnPropertyDescriptor;
-  }
+  // The fallback defined `ghost` on the target with an empty descriptor:
+  // an own property whose value is undefined.
+  assertEquals(
+    Object.prototype.hasOwnProperty.call(Target.prototype, "ghost"),
+    true,
+  );
 });
