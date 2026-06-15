@@ -26,15 +26,17 @@
   "tasks": {
     "test": "deno test --allow-env",
     "test:cov": "deno test --allow-env --coverage=cov && deno coverage cov",
-    "check": "deno check src/index.ts config.ts canned/mod.ts",
-    "ok": "deno fmt --check && deno lint && deno check src/index.ts config.ts canned/mod.ts && deno test --allow-env",
-    "hooks:install": "git config core.hooksPath .githooks"
+    "check": "deno check src/index.ts config.ts canned/mod.ts scripts/release.ts",
+    "ok": "deno fmt --check && deno lint && deno check src/index.ts config.ts canned/mod.ts scripts/release.ts && deno test --allow-env",
+    "hooks:install": "git config core.hooksPath .githooks",
+    "release": "deno run --allow-read=. --allow-write=deno.json --allow-run=git,deno scripts/release.ts"
   },
   "publish": {
     "exclude": [
       "canned/",
       "**/*_test.ts",
       "fetch-canned-data.sh",
+      "scripts/",
       "CURL_EXAMPLES.md"
     ]
   },

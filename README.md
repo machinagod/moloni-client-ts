@@ -58,12 +58,20 @@ for a single commit with `git commit --no-verify`.
   check to pass.
 - **Publishing** (`.github/workflows/publish.yml`) is triggered by pushing a
   `v*` tag. It verifies the tag matches the `version` in `deno.json`, runs
-  `deno task ok`, then publishes to [JSR](https://jsr.io) via OIDC. To cut a
-  release, bump `version` in `deno.json`, commit, then:
+  `deno task ok`, then publishes to [JSR](https://jsr.io) via OIDC.
+- **Cutting a release** is a single task — it bumps the version, runs the gate,
+  commits, tags `vX.Y.Z`, and pushes the commit and tag (which kicks off the
+  publish workflow):
 
   ```bash
-  git tag v0.1.2 && git push origin v0.1.2
+  deno task release                  # patch bump (0.1.1 -> 0.1.2)
+  deno task release minor            # 0.1.1 -> 0.2.0
+  deno task release major            # 0.1.1 -> 1.0.0
+  deno task release 1.4.0            # set an explicit version
+  deno task release minor --dry-run  # preview without changing anything
   ```
+
+  The task refuses to run unless you are on a clean, up-to-date `main`.
 
 ### Test fixtures
 
