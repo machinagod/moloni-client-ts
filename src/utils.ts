@@ -6,7 +6,7 @@ type Constructor = new (...args: any[]) => object;
 export const applyMixins = (
   derivedCtor: Constructor,
   baseCtors: Constructor[],
-) => {
+): void => {
   baseCtors.forEach((baseCtor) => {
     Object.getOwnPropertyNames(baseCtor.prototype).forEach((name) => {
       Object.defineProperty(

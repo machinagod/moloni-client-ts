@@ -33,7 +33,7 @@ export abstract class Base {
 
   constructor(private config: InitConfig) {}
 
-  public setCompanyId(id: number) {
+  public setCompanyId(id: number): this {
     this.companyId = id;
     return this;
   }
@@ -122,7 +122,7 @@ export abstract class Base {
     return this.authPromise;
   }
 
-  public async authenticate() {
+  public async authenticate(): Promise<AuthResponse> {
     if (this.config.credentials) {
       this.credentials = this.config.credentials;
       return this.credentials;

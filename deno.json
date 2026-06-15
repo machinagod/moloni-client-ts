@@ -1,4 +1,25 @@
 {
+  "name": "@machinagod/moloni-client-ts",
+  "version": "0.1.0",
+  "exports": {
+    ".": "./src/index.ts",
+    "./src/index.ts": "./src/index.ts",
+    "./config.ts": "./config.ts",
+    "./src/utils.ts": "./src/utils.ts",
+    "./src/users/index.ts": "./src/users/index.ts",
+    "./src/documents/index.ts": "./src/documents/index.ts",
+    "./src/documents/types/document.types.ts": "./src/documents/types/document.types.ts",
+    "./src/products/index.ts": "./src/products/index.ts",
+    "./src/products/types/products.types.ts": "./src/products/types/products.types.ts",
+    "./src/products/types/productCategories.types.ts": "./src/products/types/productCategories.types.ts",
+    "./src/entities/index.ts": "./src/entities/index.ts",
+    "./src/entities/types/customer.types.ts": "./src/entities/types/customer.types.ts",
+    "./src/entities/types/supplier.types.ts": "./src/entities/types/supplier.types.ts",
+    "./src/entities/types/salesmen.types.ts": "./src/entities/types/salesmen.types.ts",
+    "./src/settings/index.ts": "./src/settings/index.ts",
+    "./src/settings/types/vehicle.types.ts": "./src/settings/types/vehicle.types.ts",
+    "./src/globalData/index.ts": "./src/globalData/index.ts"
+  },
   "imports": {
     "std/": "https://deno.land/std@0.208.0/"
   },
@@ -7,6 +28,14 @@
     "test:cov": "deno test --coverage=cov && deno coverage cov",
     "check": "deno check src/index.ts config.ts canned/mod.ts",
     "ok": "deno fmt --check && deno lint && deno check src/index.ts config.ts canned/mod.ts && deno test"
+  },
+  "publish": {
+    "exclude": [
+      "canned/",
+      "**/*_test.ts",
+      "fetch-canned-data.sh",
+      "CURL_EXAMPLES.md"
+    ]
   },
   "fmt": {
     "exclude": ["canned/v1/"]
