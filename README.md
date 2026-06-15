@@ -1,5 +1,4 @@
 # moloni-client-ts
-<<<<<<< HEAD
 Moloni Typescript Client, 
 =======
 
