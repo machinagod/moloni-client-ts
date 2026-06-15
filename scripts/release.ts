@@ -28,13 +28,16 @@ async function git(
   args: string[],
   { capture = false }: { capture?: boolean } = {},
 ): Promise<string> {
-  const { code, stdout } = await new Deno.Command("git", {
+  const output = await new Deno.Command("git", {
     args,
     stdout: capture ? "piped" : "inherit",
     stderr: "inherit",
   }).output();
-  if (code !== 0) die(`\`git ${args.join(" ")}\` failed (exit ${code})`);
-  return capture ? new TextDecoder().decode(stdout).trim() : "";
+  // `output.stdout` is only readable when piped; touching it under "inherit" throws.
+  if (output.code !== 0) {
+    die(`\`git ${args.join(" ")}\` failed (exit ${output.code})`);
+  }
+  return capture ? new TextDecoder().decode(output.stdout).trim() : "";
 }
 
 function parseSemver(v: string): [number, number, number] {
