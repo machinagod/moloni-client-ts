@@ -1,6 +1,6 @@
 // Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
 
-import Moloni from "@/utils/moloni-client/src/index.ts";
+import Moloni from "./src/index.ts";
 
 /** Higitotal company ID for Moloni API */
 export const HIGITOTAL_ID = 240211;

@@ -1,0 +1,19 @@
+{
+  "imports": {
+    "std/": "https://deno.land/std@0.208.0/"
+  },
+  "tasks": {
+    "test": "deno test",
+    "test:cov": "deno test --coverage=cov && deno coverage cov",
+    "check": "deno check src/index.ts config.ts canned/mod.ts",
+    "ok": "deno fmt --check && deno lint && deno check src/index.ts config.ts canned/mod.ts && deno test"
+  },
+  "fmt": {
+    "exclude": ["canned/v1/"]
+  },
+  "lint": {
+    "rules": {
+      "tags": ["recommended"]
+    }
+  }
+}

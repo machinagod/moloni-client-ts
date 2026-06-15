@@ -1,0 +1,6 @@
+.env
+.env.*
+cov/
+*.log
+deno.lock
+.DS_Store

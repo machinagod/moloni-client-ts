@@ -1,5 +1,5 @@
 // Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
-import { Salesmen } from "@/utils/moloni-client/src/entities/types/salesmen.types.ts";
+import { Salesmen } from "../../entities/types/salesmen.types.ts";
 import { Product } from "../../products/types/products.types.ts";
 
 export type DocumentType = {
