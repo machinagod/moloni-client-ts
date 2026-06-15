@@ -1,0 +1,46 @@
+name: publish
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: read
+  id-token: write # required for JSR OIDC authentication
+
+concurrency:
+  group: publish-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      # Refuse to publish unless the pushed tag (vX.Y.Z) matches deno.json.
+      # The tag is read from an env var (not interpolated into the shell) to
+      # avoid command injection from the ref name.
+      - name: Verify tag matches deno.json version
+        env:
+          REF_NAME: ${{ github.ref_name }}
+        run: |
+          tag_version="${REF_NAME#v}"
+          pkg_version="$(jq -r .version deno.json)"
+          echo "tag=$tag_version deno.json=$pkg_version"
+          if [ "$tag_version" != "$pkg_version" ]; then
+            echo "::error::Tag '$REF_NAME' does not match deno.json version '$pkg_version'. Bump deno.json or retag."
+            exit 1
+          fi
+
+      # Gate: same full check as CI and the local pre-commit hook.
+      - name: Gate — deno task ok
+        run: deno task ok
+
+      # Publishes to JSR via OIDC (no token needed; package must be linked to
+      # this repo on jsr.io). Fails if this version was already published.
+      - name: Publish to JSR
+        run: deno publish

@@ -1,0 +1,15 @@
+#!/bin/sh
+#
+# Pre-commit gate. Runs the full project check before allowing a commit,
+# mirroring CI (.github/workflows/ci.yml) and `deno task ok`:
+#   deno fmt --check && deno lint && deno check ... && deno test --allow-env
+#
+# Enable in a fresh clone with:  deno task hooks:install
+# Bypass for a single commit with: git commit --no-verify
+#
+if ! command -v deno >/dev/null 2>&1; then
+  echo "pre-commit: deno not found on PATH; install Deno to run the commit gate." >&2
+  exit 1
+fi
+
+exec deno task ok

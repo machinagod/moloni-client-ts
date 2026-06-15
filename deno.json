@@ -27,7 +27,8 @@
     "test": "deno test --allow-env",
     "test:cov": "deno test --allow-env --coverage=cov && deno coverage cov",
     "check": "deno check src/index.ts config.ts canned/mod.ts",
-    "ok": "deno fmt --check && deno lint && deno check src/index.ts config.ts canned/mod.ts && deno test --allow-env"
+    "ok": "deno fmt --check && deno lint && deno check src/index.ts config.ts canned/mod.ts && deno test --allow-env",
+    "hooks:install": "git config core.hooksPath .githooks"
   },
   "publish": {
     "exclude": [
