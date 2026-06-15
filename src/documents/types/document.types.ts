@@ -1,4 +1,4 @@
-// Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
+// Copyright 2026 Higitotal, LDA. MIT License.
 import { Salesmen } from "../../entities/types/salesmen.types.ts";
 import { Product } from "../../products/types/products.types.ts";
 

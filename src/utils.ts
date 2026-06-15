@@ -1,4 +1,4 @@
-// Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
+// Copyright 2026 Higitotal, LDA. MIT License.
 // Generic constructor type for mixin pattern
 // deno-lint-ignore no-explicit-any
 type Constructor = new (...args: any[]) => object;

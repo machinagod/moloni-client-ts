@@ -1,4 +1,4 @@
-// Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
+// Copyright 2026 Higitotal, LDA. MIT License.
 /** Build a query string from an object (e.g. `?key=val&key2=val2`). */
 function stringify(
   params: Record<string, string | boolean | undefined>,

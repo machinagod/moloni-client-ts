@@ -1,4 +1,4 @@
-// Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
+// Copyright 2026 Higitotal, LDA. MIT License.
 import { assertEquals, assertThrows } from "std/assert/mod.ts";
 import { loadCannedResponse } from "./mod.ts";
 

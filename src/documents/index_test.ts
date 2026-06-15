@@ -1,4 +1,4 @@
-// Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
+// Copyright 2026 Higitotal, LDA. MIT License.
 import { assertEquals, assertRejects } from "std/assert/mod.ts";
 import { returnsNext, stub } from "std/testing/mock.ts";
 import { Documents } from "./index.ts";

@@ -1,4 +1,4 @@
-// Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
+// Copyright 2026 Higitotal, LDA. MIT License.
 import { Products } from "./products/index.ts";
 import { Base, InitConfig } from "./base.ts";
 import { applyMixins } from "./utils.ts";

@@ -1,4 +1,4 @@
-// Copyright 2026 Higitotal, LDA. All rights reserved. Proprietary.
+// Copyright 2026 Higitotal, LDA. MIT License.
 
 import { assertEquals, assertStrictEquals } from "std/assert/mod.ts";
 import { applyMixins } from "./utils.ts";
