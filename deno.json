@@ -3,22 +3,54 @@
   "version": "0.1.2",
   "exports": {
     ".": "./src/index.ts",
-    "./src/index.ts": "./src/index.ts",
     "./config.ts": "./config.ts",
-    "./src/utils.ts": "./src/utils.ts",
-    "./src/users/index.ts": "./src/users/index.ts",
+    "./src/base.ts": "./src/base.ts",
+    "./src/company/index.ts": "./src/company/index.ts",
+    "./src/company/types/company.types.ts": "./src/company/types/company.types.ts",
+    "./src/company/types/subscription.types.ts": "./src/company/types/subscription.types.ts",
     "./src/documents/index.ts": "./src/documents/index.ts",
     "./src/documents/types/document.types.ts": "./src/documents/types/document.types.ts",
-    "./src/products/index.ts": "./src/products/index.ts",
-    "./src/products/types/products.types.ts": "./src/products/types/products.types.ts",
-    "./src/products/types/productCategories.types.ts": "./src/products/types/productCategories.types.ts",
+    "./src/documents/types/pending_document.types.ts": "./src/documents/types/pending_document.types.ts",
+    "./src/documents/types/settlementNote.types.ts": "./src/documents/types/settlementNote.types.ts",
     "./src/entities/index.ts": "./src/entities/index.ts",
+    "./src/entities/types/alternateAddresses.types.ts": "./src/entities/types/alternateAddresses.types.ts",
     "./src/entities/types/customer.types.ts": "./src/entities/types/customer.types.ts",
-    "./src/entities/types/supplier.types.ts": "./src/entities/types/supplier.types.ts",
     "./src/entities/types/salesmen.types.ts": "./src/entities/types/salesmen.types.ts",
+    "./src/entities/types/supplier.types.ts": "./src/entities/types/supplier.types.ts",
+    "./src/globalData/index.ts": "./src/globalData/index.ts",
+    "./src/globalData/types/country.types.ts": "./src/globalData/types/country.types.ts",
+    "./src/globalData/types/currency.types.ts": "./src/globalData/types/currency.types.ts",
+    "./src/globalData/types/currencyExchange.types.ts": "./src/globalData/types/currencyExchange.types.ts",
+    "./src/globalData/types/documentModel.types.ts": "./src/globalData/types/documentModel.types.ts",
+    "./src/globalData/types/fiscalZone.types.ts": "./src/globalData/types/fiscalZone.types.ts",
+    "./src/globalData/types/geographicZone.types.ts": "./src/globalData/types/geographicZone.types.ts",
+    "./src/globalData/types/language.types.ts": "./src/globalData/types/language.types.ts",
+    "./src/globalData/types/mbGateway.types.ts": "./src/globalData/types/mbGateway.types.ts",
+    "./src/globalData/types/taxExemption.types.ts": "./src/globalData/types/taxExemption.types.ts",
+    "./src/index.ts": "./src/index.ts",
+    "./src/products/index.ts": "./src/products/index.ts",
+    "./src/products/types/priceClasses.types.ts": "./src/products/types/priceClasses.types.ts",
+    "./src/products/types/productCategories.types.ts": "./src/products/types/productCategories.types.ts",
+    "./src/products/types/productStocks.types.ts": "./src/products/types/productStocks.types.ts",
+    "./src/products/types/products.types.ts": "./src/products/types/products.types.ts",
     "./src/settings/index.ts": "./src/settings/index.ts",
+    "./src/settings/types/bankAccount.types.ts": "./src/settings/types/bankAccount.types.ts",
+    "./src/settings/types/deduction.types.ts": "./src/settings/types/deduction.types.ts",
+    "./src/settings/types/deliveryMethod.types.ts": "./src/settings/types/deliveryMethod.types.ts",
+    "./src/settings/types/documentSets.types.ts": "./src/settings/types/documentSets.types.ts",
+    "./src/settings/types/economicActivityClassificationCode.types.ts": "./src/settings/types/economicActivityClassificationCode.types.ts",
+    "./src/settings/types/identificationTemplate.types.ts": "./src/settings/types/identificationTemplate.types.ts",
+    "./src/settings/types/maturityDate.types.ts": "./src/settings/types/maturityDate.types.ts",
+    "./src/settings/types/measurementUnit.types.ts": "./src/settings/types/measurementUnit.types.ts",
+    "./src/settings/types/paymentMethod.types.ts": "./src/settings/types/paymentMethod.types.ts",
+    "./src/settings/types/productProperties.types.ts": "./src/settings/types/productProperties.types.ts",
+    "./src/settings/types/tax.types.ts": "./src/settings/types/tax.types.ts",
     "./src/settings/types/vehicle.types.ts": "./src/settings/types/vehicle.types.ts",
-    "./src/globalData/index.ts": "./src/globalData/index.ts"
+    "./src/settings/types/warehouse.types.ts": "./src/settings/types/warehouse.types.ts",
+    "./src/types.ts": "./src/types.ts",
+    "./src/users/index.ts": "./src/users/index.ts",
+    "./src/users/types/users.types.ts": "./src/users/types/users.types.ts",
+    "./src/utils.ts": "./src/utils.ts"
   },
   "imports": {
     "std/": "https://deno.land/std@0.208.0/"
@@ -41,11 +73,15 @@
     ]
   },
   "fmt": {
-    "exclude": ["canned/v1/"]
+    "exclude": [
+      "canned/v1/"
+    ]
   },
   "lint": {
     "rules": {
-      "tags": ["recommended"]
+      "tags": [
+        "recommended"
+      ]
     }
   }
 }
