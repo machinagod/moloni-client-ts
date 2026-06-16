@@ -16,15 +16,35 @@ const apiBaseUrl = "https://api.moloni.pt";
 const sandboxUrl = `${apiBaseUrl}/sandbox`;
 const apiUrl = `${apiBaseUrl}/v1`;
 
+/**
+ * Configuration for constructing a Moloni client.
+ *
+ * Supply either `username`/`password` for the OAuth password grant, or a
+ * pre-obtained `credentials` object when authentication is handled elsewhere.
+ */
 export type InitConfig = {
+  /** OAuth client id issued by Moloni. */
   clientId: string;
+  /** OAuth client secret issued by Moloni. */
   clientSecret: string;
+  /** Account username, required for the password grant. */
   username?: string;
+  /** Account password, required for the password grant. */
   password?: string;
-  credentials?: AuthResponse; // If using an external authenticator
+  /** Pre-obtained credentials, when using an external authenticator. */
+  credentials?: AuthResponse;
+  /** Target Moloni's sandbox host instead of production when `true`. */
   sandbox?: boolean;
 };
 
+/**
+ * Shared base for every endpoint-group mixin.
+ *
+ * Owns the company id, OAuth credentials (including refresh-on-expiry and
+ * single-flight authentication), and the low-level POST request used by all
+ * endpoint methods. Not constructed directly — extend it via a mixin or use the
+ * composed {@linkcode Moloni} client.
+ */
 export abstract class Base {
   private companyId?: number;
   private credentials?: AuthResponse;
@@ -33,6 +53,15 @@ export abstract class Base {
 
   constructor(private config: InitConfig) {}
 
+  /**
+   * Sets the company id sent as `company_id` on every subsequent request.
+   *
+   * Most Moloni endpoints are scoped to a company, so call this once after
+   * construction before issuing requests.
+   *
+   * @param id The Moloni company id to operate on.
+   * @returns This instance, for chaining.
+   */
   public setCompanyId(id: number): this {
     this.companyId = id;
     return this;
@@ -42,6 +71,22 @@ export abstract class Base {
     return this.config.sandbox ? sandboxUrl : apiUrl;
   }
 
+  /**
+   * Issues an authenticated POST to a Moloni API endpoint.
+   *
+   * Authenticates (or re-authenticates on token expiry) before sending, injects
+   * `company_id` into the body, and appends `access_token`, `human_errors`, and
+   * `json` query parameters. As a safety guard, `insert`/`update` calls are
+   * rejected unless their `status` is `0` (draft) so the client never publishes
+   * a document.
+   *
+   * @typeParam T The expected JSON response shape.
+   * @param endpoint The API path, e.g. `"/products/getAll/"`.
+   * @param params Request body parameters merged with `company_id`.
+   * @returns The parsed JSON response.
+   * @throws {Error} If a write attempts a non-draft `status`, or the request
+   * fails.
+   */
   protected async request<T>(
     endpoint: string,
     // deno-lint-ignore no-explicit-any
@@ -122,6 +167,17 @@ export abstract class Base {
     return this.authPromise;
   }
 
+  /**
+   * Obtains OAuth credentials for the configured account.
+   *
+   * Returns the `credentials` supplied in {@linkcode InitConfig} as-is when
+   * present; otherwise performs the password grant against the configured host
+   * and caches the resulting token (tracking its expiry). Endpoint methods call
+   * this automatically, so you rarely need to invoke it directly.
+   *
+   * @returns The active authentication response.
+   * @throws {Error} If the grant request fails.
+   */
   public async authenticate(): Promise<AuthResponse> {
     if (this.config.credentials) {
       this.credentials = this.config.credentials;
