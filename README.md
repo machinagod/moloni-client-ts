@@ -73,6 +73,13 @@ for a single commit with `git commit --no-verify`.
 
   The task refuses to run unless you are on a clean, up-to-date `main`.
 
+  > **Keep the version bump out of feature PRs.** `deno task release` owns the
+  > bump — it only accepts a version _greater_ than the one in `deno.json`, so
+  > if a PR has already bumped `version` the helper can't cut that release and
+  > you'd be left tagging by hand. Let feature branches change code only, then
+  > run `deno task release minor` (or `patch`/`major`) on `main` to bump, tag,
+  > and publish in one shot.
+
 ### Test fixtures
 
 `canned/` holds recorded Moloni API responses used as hermetic fixtures
